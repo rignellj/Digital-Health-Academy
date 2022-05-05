@@ -1,1 +1,2 @@
-console.log('myös tässä tulee virhe :/')
+console.log('tässä pitäisi tulla virhe :0')
+

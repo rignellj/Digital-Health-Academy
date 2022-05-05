@@ -1,0 +1,1 @@
+Conflict delete from conflict branch
