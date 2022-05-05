@@ -1,1 +1,1 @@
-console.log('hellurei hellurei!')
+console.log('tässä pitäisi tulla virhe :0')
